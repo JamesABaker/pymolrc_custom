@@ -3,7 +3,7 @@ hide lines
 set ray_trace_mode, 0
 set two_sided_lighting, 1
 set antialias, 2
-set surface_quality, 1
+set surface_quality, 2
 set ray_opaque_background, on
 util.cbaw
 set light_count,8
