@@ -1,3 +1,4 @@
 #Common file formats
 *.pdb
 *.cif
+.DS_Store
